@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nirmal</h1>
+<h1 align="center">Hi <img src='hello.gif' width='33px'>, I'm Nirmal</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-
-- 🔭 I’m currently working on **Profile**
+- 🔭 I’m currently working on **My Profile**
 
 - 🌱 I’m currently learning **React, Express, Django, Bootstrap**
 
