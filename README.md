@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src='hello.gif' width='33px'>, I'm Nirmal</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-- 🔭 I’m currently working on **My Profile**
 
-- 🌱 I’m currently learning **React, Express, Django, Bootstrap**
+- 🔭 I’m currently working on **something cool**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms, React, Express, Django, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NirmalPuttamoni](https://github.com/NirmalPuttamoni)
 
