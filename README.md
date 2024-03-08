@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, React, Express, Django, Bootstrap**
+- 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS, NodeJS, ExpressJS, MongoDB, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NirmalPuttamoni](https://github.com/NirmalPuttamoni)
+- 👨‍💻 All of my projects are available at [https://github.com/NirmalPuttamoni](https://nirmal-puttamoni.netlify.app/)
 
 - 📫 How to reach me **puttamoninirmal01@gmail.com**
 
