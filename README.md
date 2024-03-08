@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS, NodeJS, ExpressJS, MongoDB, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NirmalPuttamoni](https://nirmal-puttamoni.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nirmal-puttamoni.netlify.app](https://nirmal-puttamoni.netlify.app/)
 
 - 📫 How to reach me **puttamoninirmal01@gmail.com**
 
