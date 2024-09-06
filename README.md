@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS, NodeJS, ExpressJS, MongoDB, Bootstrap**
+- 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS, NodeJS, ExpressJS, MongoDB, FastAPI, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://nirmal-puttamoni.netlify.app](https://nirmal-puttamoni.netlify.app/)
 
