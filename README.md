@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src='hello.gif' width='33px'>, I'm Nirmal</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<h3 align="center">A passionate Full-stack Engineer from India</h3>
 
 - 🔭 I’m currently working on **something cool**
 
