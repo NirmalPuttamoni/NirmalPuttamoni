@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src='hello.gif' width='33px'>, I'm Nirmal</h1>
-<h3 align="center">A passionate Full-stack Engineer from India</h3>
+<h3 align="center">A passionate Full-stack Engineer</h3>
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS, NodeJS, ExpressJS, MongoDB, FastAPI, PostgreSQL**
+- 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS, Redux, NodeJS, ExpressJS, MongoDB, FastAPI, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://nirmal-puttamoni.netlify.app](https://nirmal-puttamoni.netlify.app/)
 
