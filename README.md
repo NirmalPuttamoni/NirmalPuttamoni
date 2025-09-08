@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, ReactJS, Redux, NodeJS, ExpressJS, MongoDB, FastAPI, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://nirmalputtamoni.me](https://nirmalputtamoni.me)
+- 👨‍💻 All of my projects are available at [https://nirmalputtamoni.me](nirmalputtamoni.me)
 
 - 📫 How to reach me **puttamoninirmal01@gmail.com**
 
